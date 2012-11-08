@@ -10,6 +10,6 @@
     "scripts":["jquery.js", "background.js"]
   },
   "permissions":[
-    "tabs", "https://*/"
+    "tabs", "http://*/", "https://*/"
   ]
 }

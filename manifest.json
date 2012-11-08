@@ -1,0 +1,15 @@
+{
+  "name": "gerrit reset",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Reset css to initial state for gerrit",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts":["jquery.js", "background.js"]
+  },
+  "permissions":[
+    "tabs", "https://*/"
+  ]
+}

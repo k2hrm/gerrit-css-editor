@@ -1,5 +1,5 @@
 {
-  "name": "gerrit reset",
+  "name": "gerrit css editor",
   "version": "0.1",
   "manifest_version": 2,
   "description": "Reset css to initial state for gerrit",
